@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-0 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\06050d39097a2696f73edd093911215f\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-1 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\7afafc56e27cbed37e58edf01e07b822\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-2 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\89c591f55621d1930e6542c4c933953e\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.3-3 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\8a3b49ea9e14e54359197f6250dccb42\transformed\jetified-firebase-common-20.3.3\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-4 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\b96e4782279dfd01c09d5ae0ab6140ef\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-5 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\e6011fd2cf4557edbea3d96a0d5e8275\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-6 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ef7a2d0c8c5bc107c6453d5c378fa30e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.9.3\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.9.3\android\src\release\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\cloud_firestore\generated\res\pngs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\cloud_firestore\generated\res\resValues\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\cloud_firestore\generated\res\rs\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\cloud_firestore\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\cloud_firestore\intermediates\merged_res\release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\firebase_core\intermediates\packaged_res\release
