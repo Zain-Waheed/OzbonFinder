@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="bt_add_card">Adicionar cartão</string>
+    <string name="bt_cancel">Cancelar</string>
+    <string name="bt_card_details">Dados do cartão</string>
+    <string name="bt_card_not_accepted">Cartão não aceite</string>
+    <string name="bt_card_number_invalid">O número do cartão é inválido.</string>
+    <string name="bt_card_number_required">O número de cartão é obrigatório.</string>
+    <string name="bt_cardholder_name_required">O nome do titular do cartão é obrigatório</string>
+    <string name="bt_cid">CID</string>
+    <string name="bt_confirm">Confirmar</string>
+    <string name="bt_confirm_enrollment">Confirmar registo</string>
+    <string name="bt_country_code_invalid">O código do país é inválido</string>
+    <string name="bt_country_code_required">O código do país é obrigatório.</string>
+    <string name="bt_cvc">CVC</string>
+    <string name="bt_cvn">CVN</string>
+    <string name="bt_cvv">CVV</string>
+    <string name="bt_cvv_invalid">%s é inválido</string>
+    <string name="bt_cvv_required">%s é obrigatório</string>
+    <string name="bt_delete">Eliminar</string>
+    <string name="bt_delete_confirmation_description">Já não poderá usar este meio de pagamento nesta aplicação.</string>
+    <string name="bt_delete_confirmation_title">Eliminar meio de pagamento?</string>
+    <string name="bt_descriptor_amex">Amex</string>
+    <string name="bt_descriptor_diners">Diners</string>
+    <string name="bt_descriptor_discover">Discover</string>
+    <string name="bt_descriptor_google_pay">Google Pay</string>
+    <string name="bt_descriptor_hiper">Hiper</string>
+    <string name="bt_descriptor_hipercard">Hipercard</string>
+    <string name="bt_descriptor_jcb">JCB</string>
+    <string name="bt_descriptor_maestro">Maestro</string>
+    <string name="bt_descriptor_mastercard">MasterCard</string>
+    <string name="bt_descriptor_pay_with_venmo">Venmo</string>
+    <string name="bt_descriptor_paypal">PayPal</string>
+    <string name="bt_descriptor_unionpay">UnionPay</string>
+    <string name="bt_descriptor_unknown">Cartão de crédito ou débito</string>
+    <string name="bt_descriptor_visa">Visa</string>
+    <string name="bt_done">Concluído</string>
+    <string name="bt_edit">Editar</string>
+    <string name="bt_expiration_invalid">A data de validade é inválida.</string>
+    <string name="bt_expiration_required">A data de validade é obrigatória.</string>
+    <string name="bt_form_hint_card_number">Número do cartão</string>
+    <string name="bt_form_hint_cardholder_name">Nome do titular do cartão</string>
+    <string name="bt_form_hint_country_code">Código do país</string>
+    <string name="bt_form_hint_cvv">@string/bt_cvv</string>
+    <string name="bt_form_hint_expiration">Data de validade</string>
+    <string name="bt_form_hint_mobile_number">Número de telemóvel</string>
+    <string name="bt_form_hint_postal_code">Código postal</string>
+    <string name="bt_mobile_number_invalid">O número de telemóvel é inválido</string>
+    <string name="bt_mobile_number_required">O número de telemóvel é obrigatório.</string>
+    <string name="bt_month">Mês</string>
+    <string name="bt_next">Seguinte</string>
+    <string name="bt_other">Outro</string>
+    <string name="bt_postal_code_invalid">O código postal é inválido</string>
+    <string name="bt_postal_code_required">O código postal é obrigatório.</string>
+    <string name="bt_recent">Recente</string>
+    <string name="bt_save_card_checkbox_name">Guardar cartão</string>
+    <string name="bt_scan_with_card_io">Digitalizar com card.io</string>
+    <string name="bt_select_payment_method">Selecionar meio de pagamento</string>
+    <string name="bt_sms_code">Código SMS</string>
+    <string name="bt_sms_code_required">O código SMS é obrigatório</string>
+    <string name="bt_sms_code_sent_to">Introduza o código SMS enviado para %s</string>
+    <string name="bt_unionpay_mobile_number_explanation">O registo poderá ser obrigatório para este cartão. Será enviado um código SMS para este número, se necessário.</string>
+    <string name="bt_unionpay_sms_code_invalid">O código SMS é inválido</string>
+    <string name="bt_use_a_different_phone_number">Usar outro número de telefone</string>
+    <string name="bt_vault_manager_delete_failure">Neste momento, não foi possível eliminar o seu meio de pagamento, tente novamente mais tarde.</string>
+    <string name="bt_vault_manager_title">Edição guardada</string>
+    <string name="bt_year">Ano</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

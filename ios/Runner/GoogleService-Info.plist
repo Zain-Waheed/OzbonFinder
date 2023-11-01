@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>302294458805-eigrtsmr4d88tjm6jojcaaqeui9u7vlf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.302294458805-eigrtsmr4d88tjm6jojcaaqeui9u7vlf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>302294458805-nohcvoncb2a7d99idalv763is92rn24q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQP5SZmBJ7v7w7J3VzjcVKieCGWxbpxyc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>302294458805</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ozbonfinder.flutterapp</string>
+	<key>PROJECT_ID</key>
+	<string>ozbonfinder-88462</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ozbonfinder-88462.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:302294458805:ios:fe6476f7b638d73393b9fc</string>
+</dict>
+</plist>

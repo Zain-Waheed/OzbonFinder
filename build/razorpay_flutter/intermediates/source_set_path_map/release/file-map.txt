@@ -1,0 +1,20 @@
+com.razorpay.razorpay_flutter-core-1.6.0-0 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\06050d39097a2696f73edd093911215f\transformed\core-1.6.0\res
+com.razorpay.razorpay_flutter-jetified-play-services-basement-17.6.0-1 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\32a53d6253106dff0233fe904efdd9ad\transformed\jetified-play-services-basement-17.6.0\res
+com.razorpay.razorpay_flutter-jetified-play-services-auth-17.0.0-2 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\52463e024517d1ed0c67d90e43d33a9f\transformed\jetified-play-services-auth-17.0.0\res
+com.razorpay.razorpay_flutter-jetified-play-services-wallet-18.1.3-3 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\593174f20341d72c2eae969c87a7a770\transformed\jetified-play-services-wallet-18.1.3\res
+com.razorpay.razorpay_flutter-jetified-play-services-maps-17.0.0-4 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\906a025fe4c6a73767962a99b2f34ec7\transformed\jetified-play-services-maps-17.0.0\res
+com.razorpay.razorpay_flutter-jetified-checkout-1.6.35-5 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\a414fe56dd2bad155711dfdf1fbe3446\transformed\jetified-checkout-1.6.35\res
+com.razorpay.razorpay_flutter-jetified-window-1.0.0-beta04-6 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\b96e4782279dfd01c09d5ae0ab6140ef\transformed\jetified-window-1.0.0-beta04\res
+com.razorpay.razorpay_flutter-jetified-play-services-base-17.5.0-7 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\e349461b5ef07e95638134c268f38cbd\transformed\jetified-play-services-base-17.5.0\res
+com.razorpay.razorpay_flutter-jetified-annotation-experimental-1.1.0-8 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\e6011fd2cf4557edbea3d96a0d5e8275\transformed\jetified-annotation-experimental-1.1.0\res
+com.razorpay.razorpay_flutter-jetified-window-java-1.0.0-beta04-9 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ef7a2d0c8c5bc107c6453d5c378fa30e\transformed\jetified-window-java-1.0.0-beta04\res
+com.razorpay.razorpay_flutter-main-10 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.3.5\android\src\main\res
+com.razorpay.razorpay_flutter-release-11 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\razorpay_flutter-1.3.5\android\src\release\res
+com.razorpay.razorpay_flutter-packaged_res-12 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\fluttertoast\intermediates\packaged_res\release
+com.razorpay.razorpay_flutter-packaged_res-13 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\package_info_plus\intermediates\packaged_res\release
+com.razorpay.razorpay_flutter-pngs-14 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\razorpay_flutter\generated\res\pngs\release
+com.razorpay.razorpay_flutter-resValues-15 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\razorpay_flutter\generated\res\resValues\release
+com.razorpay.razorpay_flutter-rs-16 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\razorpay_flutter\generated\res\rs\release
+com.razorpay.razorpay_flutter-mergeReleaseResources-17 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\razorpay_flutter\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.razorpay.razorpay_flutter-mergeReleaseResources-18 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\razorpay_flutter\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.razorpay.razorpay_flutter-merged_res-19 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\razorpay_flutter\intermediates\merged_res\release

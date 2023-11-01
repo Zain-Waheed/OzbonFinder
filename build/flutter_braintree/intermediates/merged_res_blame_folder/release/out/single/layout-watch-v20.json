@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.flutter_braintree-merged_res-30:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.example.flutter_braintree-appcompat-1.2.0-9:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-30:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.example.flutter_braintree-appcompat-1.2.0-9:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

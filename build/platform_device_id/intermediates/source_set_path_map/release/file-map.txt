@@ -1,0 +1,13 @@
+com.di1shuai.platform_device_id-core-1.6.0-0 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\06050d39097a2696f73edd093911215f\transformed\core-1.6.0\res
+com.di1shuai.platform_device_id-jetified-window-1.0.0-beta04-1 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\b96e4782279dfd01c09d5ae0ab6140ef\transformed\jetified-window-1.0.0-beta04\res
+com.di1shuai.platform_device_id-jetified-annotation-experimental-1.1.0-2 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\e6011fd2cf4557edbea3d96a0d5e8275\transformed\jetified-annotation-experimental-1.1.0\res
+com.di1shuai.platform_device_id-jetified-window-java-1.0.0-beta04-3 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ef7a2d0c8c5bc107c6453d5c378fa30e\transformed\jetified-window-java-1.0.0-beta04\res
+com.di1shuai.platform_device_id-main-4 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\platform_device_id-1.0.1\android\src\main\res
+com.di1shuai.platform_device_id-release-5 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\platform_device_id-1.0.1\android\src\release\res
+com.di1shuai.platform_device_id-packaged_res-6 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\device_info\intermediates\packaged_res\release
+com.di1shuai.platform_device_id-pngs-7 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\platform_device_id\generated\res\pngs\release
+com.di1shuai.platform_device_id-resValues-8 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\platform_device_id\generated\res\resValues\release
+com.di1shuai.platform_device_id-rs-9 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\platform_device_id\generated\res\rs\release
+com.di1shuai.platform_device_id-mergeReleaseResources-10 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\platform_device_id\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.di1shuai.platform_device_id-mergeReleaseResources-11 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\platform_device_id\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.di1shuai.platform_device_id-merged_res-12 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\platform_device_id\intermediates\merged_res\release

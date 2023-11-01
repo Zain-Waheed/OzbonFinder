@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.flutter_braintree-merged_res-30:/xml/standalone_badge.xml",
+        "source": "com.example.flutter_braintree-material-1.2.0-15:/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-30:/xml/standalone_badge_offset.xml",
+        "source": "com.example.flutter_braintree-material-1.2.0-15:/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-30:/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "com.example.flutter_braintree-material-1.2.0-15:/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-30:/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "com.example.flutter_braintree-material-1.2.0-15:/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "com.example.flutter_braintree-merged_res-30:/xml/standalone_badge_gravity_top_start.xml",
+        "source": "com.example.flutter_braintree-material-1.2.0-15:/xml/standalone_badge_gravity_top_start.xml"
+    }
+]

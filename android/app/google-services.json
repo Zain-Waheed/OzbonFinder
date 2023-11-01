@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "302294458805",
+    "project_id": "ozbonfinder-88462",
+    "storage_bucket": "ozbonfinder-88462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302294458805:android:d6f227035ed18bf193b9fc",
+        "android_client_info": {
+          "package_name": "com.ozbonfinder.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302294458805-nohcvoncb2a7d99idalv763is92rn24q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ozbonfinder.flutterapp",
+            "certificate_hash": "22a52da26a24e791e29984e152c0cc266dabc262"
+          }
+        },
+        {
+          "client_id": "302294458805-ajaarvii92i8lgv0k954cts4v2f04tj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDrXKYp20HVWjKZZCXVA9Mhv37VR68ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302294458805-ajaarvii92i8lgv0k954cts4v2f04tj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "302294458805-eigrtsmr4d88tjm6jojcaaqeui9u7vlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ozbonfinder.flutterapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

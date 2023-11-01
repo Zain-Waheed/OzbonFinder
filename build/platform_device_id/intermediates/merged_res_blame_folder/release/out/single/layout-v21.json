@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout-v21/notification_action.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout-v21/notification_template_custom_big.xml"
+    }
+]

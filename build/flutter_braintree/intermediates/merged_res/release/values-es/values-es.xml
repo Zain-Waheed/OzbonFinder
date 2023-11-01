@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ir a inicio"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Suprimir"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Intro"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Mayús +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espacio"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de búsqueda"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ocultar"</string>
+    <string name="bt_add_card">Añadir tarjeta</string>
+    <string name="bt_cancel">Cancelar</string>
+    <string name="bt_card_details">Datos de la tarjeta</string>
+    <string name="bt_card_not_accepted">Tarjeta no aceptada</string>
+    <string name="bt_card_number_invalid">Número de tarjeta no válido</string>
+    <string name="bt_card_number_required">El número de tarjeta es obligatorio</string>
+    <string name="bt_cardholder_name_required">El nombre del titular de la tarjeta es obligatorio</string>
+    <string name="bt_cid">CID</string>
+    <string name="bt_confirm">Confirmar</string>
+    <string name="bt_confirm_enrollment">Confirmar inscripción</string>
+    <string name="bt_country_code_invalid">Código de país no válido</string>
+    <string name="bt_country_code_required">El código de país es obligatorio.</string>
+    <string name="bt_cvc">CVC</string>
+    <string name="bt_cvn">CVN</string>
+    <string name="bt_cvv">CVV</string>
+    <string name="bt_cvv_invalid">El valor %s no es válido</string>
+    <string name="bt_cvv_required">El valor %s es obligatorio</string>
+    <string name="bt_delete">Eliminar</string>
+    <string name="bt_delete_confirmation_description">Ya no podrá utilizar esta forma de pago en la aplicación.</string>
+    <string name="bt_delete_confirmation_title">¿Desea eliminar esta forma de pago?</string>
+    <string name="bt_descriptor_amex">Amex</string>
+    <string name="bt_descriptor_diners">Diners</string>
+    <string name="bt_descriptor_discover">Discover</string>
+    <string name="bt_descriptor_google_pay">Google Pay</string>
+    <string name="bt_descriptor_hiper">Hiper</string>
+    <string name="bt_descriptor_hipercard">Hipercard</string>
+    <string name="bt_descriptor_jcb">JCB</string>
+    <string name="bt_descriptor_maestro">Maestro</string>
+    <string name="bt_descriptor_mastercard">MasterCard</string>
+    <string name="bt_descriptor_pay_with_venmo">Venmo</string>
+    <string name="bt_descriptor_paypal">PayPal</string>
+    <string name="bt_descriptor_unionpay">UnionPay</string>
+    <string name="bt_descriptor_unknown">Tarjeta de débito o crédito</string>
+    <string name="bt_descriptor_visa">Visa</string>
+    <string name="bt_done">Hecho</string>
+    <string name="bt_edit">Modificar</string>
+    <string name="bt_expiration_invalid">Fecha de vencimiento no válida</string>
+    <string name="bt_expiration_required">La fecha de vencimiento es obligatoria</string>
+    <string name="bt_form_hint_card_number">Número de tarjeta</string>
+    <string name="bt_form_hint_cardholder_name">Nombre del titular de la tarjeta</string>
+    <string name="bt_form_hint_country_code">Código de país</string>
+    <string name="bt_form_hint_cvv">@string/bt_cvv</string>
+    <string name="bt_form_hint_expiration">Fecha de vencimiento</string>
+    <string name="bt_form_hint_mobile_number">N.º de móvil</string>
+    <string name="bt_form_hint_postal_code">Código postal</string>
+    <string name="bt_mobile_number_invalid">Número de móvil no válido</string>
+    <string name="bt_mobile_number_required">El número de móvil es obligatorio.</string>
+    <string name="bt_month">Mes</string>
+    <string name="bt_next">Siguiente</string>
+    <string name="bt_other">Otra</string>
+    <string name="bt_postal_code_invalid">Código postal no válido</string>
+    <string name="bt_postal_code_required">El código postal es obligatorio.</string>
+    <string name="bt_recent">Reciente(s)</string>
+    <string name="bt_save_card_checkbox_name">Guardar tarjeta</string>
+    <string name="bt_scan_with_card_io">Escanear con card.io</string>
+    <string name="bt_select_payment_method">Seleccionar forma de pago</string>
+    <string name="bt_sms_code">Código SMS</string>
+    <string name="bt_sms_code_required">El código SMS es obligatorio</string>
+    <string name="bt_sms_code_sent_to">Introduce el código SMS enviado al %s</string>
+    <string name="bt_unionpay_mobile_number_explanation">Puede que para esta tarjeta sea necesario inscribirse. Se enviará un código SMS a este número si es necesario.</string>
+    <string name="bt_unionpay_sms_code_invalid">Código SMS no válido</string>
+    <string name="bt_use_a_different_phone_number">Usar otro número de teléfono</string>
+    <string name="bt_vault_manager_delete_failure">No hemos podido eliminar la forma de pago en este momento. Inténtelo de nuevo más tarde.</string>
+    <string name="bt_vault_manager_title">Modificar guardado</string>
+    <string name="bt_year">Año</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Habilitar"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no habilites Servicios de Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Habilita Servicios de Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalar"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Descargar Servicios de Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Disponibilidad Servicios de Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Error de Servicios de Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"La aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> tiene problemas con los Servicios de Google Play. Vuelve a intentarlo."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"No es posible ejecutar la aplicación <ns1:g id="APP_NAME">%1$s</ns1:g> sin los Servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Actualizar"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no funcionará hasta que no actualices Servicios de Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Actualiza Servicios de Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Buscar"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="363496807345461806" name="wallet_buy_button_place_holder">"Comprar con Google"</string>
+</resources>

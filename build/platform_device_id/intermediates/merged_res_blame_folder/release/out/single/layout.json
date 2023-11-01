@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout/custom_dialog.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout/notification_template_part_time.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout/notification_action.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout/notification_template_part_chronometer.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout/notification_template_icon_group.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.di1shuai.platform_device_id-merged_res-11:/layout/notification_action_tombstone.xml",
+        "source": "com.di1shuai.platform_device_id-core-1.6.0-0:/layout/notification_action_tombstone.xml"
+    }
+]

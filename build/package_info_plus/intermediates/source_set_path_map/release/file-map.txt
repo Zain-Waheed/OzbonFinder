@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.packageinfo.package_info_plus-core-1.6.0-0 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\06050d39097a2696f73edd093911215f\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-1.0.0-beta04-1 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\b96e4782279dfd01c09d5ae0ab6140ef\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-annotation-experimental-1.1.0-2 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\e6011fd2cf4557edbea3d96a0d5e8275\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-java-1.0.0-beta04-3 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ef7a2d0c8c5bc107c6453d5c378fa30e\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-main-4 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-4.0.2\android\src\main\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-5 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-4.0.2\android\src\release\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-pngs-6 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\package_info_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-resValues-7 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\package_info_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-rs-8 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\package_info_plus\generated\res\rs\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-9 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-10 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-merged_res-11 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\package_info_plus\intermediates\merged_res\release

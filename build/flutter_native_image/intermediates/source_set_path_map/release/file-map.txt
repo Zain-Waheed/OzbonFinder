@@ -1,0 +1,12 @@
+com.example.flutternativeimage.flutter_native_image-core-1.6.0-0 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\06050d39097a2696f73edd093911215f\transformed\core-1.6.0\res
+com.example.flutternativeimage.flutter_native_image-jetified-window-1.0.0-beta04-1 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\b96e4782279dfd01c09d5ae0ab6140ef\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutternativeimage.flutter_native_image-jetified-annotation-experimental-1.1.0-2 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\e6011fd2cf4557edbea3d96a0d5e8275\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutternativeimage.flutter_native_image-jetified-window-java-1.0.0-beta04-3 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ef7a2d0c8c5bc107c6453d5c378fa30e\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutternativeimage.flutter_native_image-main-4 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_image-0.0.6+1\android\src\main\res
+com.example.flutternativeimage.flutter_native_image-release-5 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_image-0.0.6+1\android\src\release\res
+com.example.flutternativeimage.flutter_native_image-pngs-6 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\flutter_native_image\generated\res\pngs\release
+com.example.flutternativeimage.flutter_native_image-resValues-7 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\flutter_native_image\generated\res\resValues\release
+com.example.flutternativeimage.flutter_native_image-rs-8 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\flutter_native_image\generated\res\rs\release
+com.example.flutternativeimage.flutter_native_image-mergeReleaseResources-9 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\flutter_native_image\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.flutternativeimage.flutter_native_image-mergeReleaseResources-10 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\flutter_native_image\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.flutternativeimage.flutter_native_image-merged_res-11 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\flutter_native_image\intermediates\merged_res\release

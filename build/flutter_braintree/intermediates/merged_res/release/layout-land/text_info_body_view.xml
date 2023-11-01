@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright © 2019 CardinalCommerce. All rights reserved.
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/dividerLine"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fab_margin_2"
+        android:background="@color/lightGrey" />
+
+    <com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCATextView
+        android:id="@+id/challengeInfoHeaderTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginTop="@dimen/fab_margin_16"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:textSize="@dimen/text_size_22"
+        android:text="@string/verify_by_phone"
+        android:textAppearance="@style/ChallengeToolbar.LabelText" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="@dimen/marginBottom"
+        android:orientation="horizontal">
+
+        <com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCAImageView
+            android:id="@+id/warningIndicator"
+            android:layout_width="@dimen/warningInddims"
+            android:layout_height="@dimen/warningInddims"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:src="@drawable/warning"
+            android:contentDescription="TODO" />
+
+        <com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCATextView
+            android:id="@+id/challengeInfoTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:focusable="false"
+            android:textSize="@dimen/text_size_16"
+            android:scrollbars="vertical"
+            android:text="@string/textview"
+            android:textAppearance="@style/otpBodyText"/>
+    </LinearLayout>
+
+</LinearLayout>

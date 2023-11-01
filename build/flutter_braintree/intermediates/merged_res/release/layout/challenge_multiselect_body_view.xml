@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright © 2019 CardinalCommerce. All rights reserved.
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/text_info_body_view"
+        android:id="@+id/textbody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCATextView
+        android:id="@+id/challengeInfoLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/marginTop"
+        android:layout_marginTop="@dimen/marginTop_20"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/ss_challengeinfo_lable"
+        android:textSize="@dimen/text_size_16"
+        android:textAppearance="@style/challengeLabelText" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/multiSelectgroup"
+        android:layout_margin="@dimen/fab_margin"
+        android:orientation="vertical" />
+
+    <com.cardinalcommerce.shared.cs.userinterfaces.uielements.CCAButton
+        android:id="@+id/ss_submitAuthenticationButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/fab_margin"
+        android:layout_marginStart="@dimen/fab_margin"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:text="@string/next"
+        android:textAllCaps="false"
+        android:theme="@style/otpbody.verfyBtn"/>
+</LinearLayout>

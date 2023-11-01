@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin_2">2dp</dimen>
+    <dimen name="landscape_padding">32dp</dimen>
+    <dimen name="progressbar_height">210dp</dimen>
+    <dimen name="progressbar_width">250dp</dimen>
+    <integer name="landscape_initial_ratio">2</integer>
+    <integer name="landscape_secondary_ratio">3</integer>
+</resources>

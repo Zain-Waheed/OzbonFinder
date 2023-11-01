@@ -1,0 +1,24 @@
+io.flutter.plugins.googlemobileads.google_mobile_ads-webkit-1.7.0-0 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\000fa821a19fb401fb882b73cde5ce05\transformed\webkit-1.7.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-core-1.6.0-1 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\06050d39097a2696f73edd093911215f\transformed\core-1.6.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-22.0.0-2 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\2f62ae861a0cb4e8874cc91bda7647ce\transformed\jetified-play-services-ads-22.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-basement-18.0.0-3 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\554a03fb8fbbd84cf99a9cbcbce2313f\transformed\jetified-play-services-basement-18.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-appcompat-1.2.0-4 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\6b56719937f502b6bd4870c59d9a5043\transformed\appcompat-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-ads-lite-22.0.0-5 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\7217841615793f9ddd9cd748826a7d32\transformed\jetified-play-services-ads-lite-22.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-browser-1.4.0-6 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\a0b249ba60e7ee52ccf1bb29f74ab2c2\transformed\browser-1.4.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-startup-runtime-1.0.0-7 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\a4f4e7466f9aa2ea1ef9bf36dbddeb3b\transformed\jetified-startup-runtime-1.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-work-runtime-2.7.0-8 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ae80d356ee4003e3b4d5f6b774da8672\transformed\work-runtime-2.7.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-1.0.0-beta04-9 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\b96e4782279dfd01c09d5ae0ab6140ef\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-constraintlayout-2.1.4-10 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\bfd23df21d661b39c911d2403ded020e\transformed\constraintlayout-2.1.4\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-annotation-experimental-1.1.0-11 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\e6011fd2cf4557edbea3d96a0d5e8275\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-window-java-1.0.0-beta04-12 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ef7a2d0c8c5bc107c6453d5c378fa30e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-play-services-base-18.0.0-13 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\fd18d6630ee3b9d383bf1c36961fd779\transformed\jetified-play-services-base-18.0.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-jetified-appcompat-resources-1.2.0-14 C:\Users\ZAIN WAHEED\.gradle\caches\transforms-3\ff30e1b5fe9cfe2a8e2b02302807eb64\transformed\jetified-appcompat-resources-1.2.0\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-main-15 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-3.0.0\android\src\main\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-release-16 C:\Users\ZAIN WAHEED\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-3.0.0\android\src\release\res
+io.flutter.plugins.googlemobileads.google_mobile_ads-pngs-17 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\google_mobile_ads\generated\res\pngs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-resValues-18 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\google_mobile_ads\generated\res\resValues\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-rs-19 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\google_mobile_ads\generated\res\rs\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-20 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-mergeReleaseResources-21 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\google_mobile_ads\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemobileads.google_mobile_ads-merged_res-22 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\google_mobile_ads\intermediates\merged_res\release
+io.flutter.plugins.googlemobileads.google_mobile_ads-packaged_res-23 G:\upwor-\PSX-REC ( 1.0.1 Submit )\Mobile Source\PSX-RealEstates-Classified\build\webview_flutter_android\intermediates\packaged_res\release
